@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+Tentativa do app
 
 ## Getting Started
 
